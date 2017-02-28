@@ -1,0 +1,22 @@
+{
+  "name": "stylus-css-stream",
+  "version": "1.0.1",
+  "description": "stylus-to-css stream wrapper for parcelify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jholster/stylus-css-stream.git"
+  },
+  "homepage": "https://github.com/jholster/stylus-css-stream",
+  "dependencies": {
+    "autoprefixer-stylus": "^0.13.0",
+    "lodash": "^4.17.4",
+    "stylus": "^0.54.5",
+    "through": "^2.3.8"
+  }
+}
